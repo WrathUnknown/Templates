@@ -61,6 +61,14 @@ Include a table for user acceptance criteria adding the user requirement and acc
 - Justification (justify all aspects metioned upon as well as the appendix if applicable)
 
 
+5 principles of data protection act!
 
+Lawfulness, fairness and transparency
+Purpose limitation
+Data minimisation
+Accuracy
+Storage limitation
+Integrity and confidentiality (security)
+Accountability
 
 
