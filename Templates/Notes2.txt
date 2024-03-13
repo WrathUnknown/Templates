@@ -1,0 +1,33 @@
+TASK 1B SHOULD INCLUDE:
+
+- Intro (logo, client name etc)
+
+- Gantt chart (use template in excel, color code tasks, set time scale, devs etc)
+
+- C4 model (include the key and the 4 levels such as context, container, component and code)
+
+Explain each level of the model for non-technical users
+
+- Include flowcharts and pseudocode for technical users
+
+- Proposed design interface (a mockup of how the system will look/function and explaination for each aspect).
+
+- Common contentions
+
+- Database example if needed.
+
+- Algorithms such as interval search or binary search tree.
+
+- data requirements for the proposed solution such as a variables table (include var name and function)
+
+- data structures (design)
+
+- data types
+
+- components that should be tested - order
+
+- types of tests required
+
+include principles and types as an explaination
+
+then include the ones required

@@ -1,0 +1,66 @@
+include an Empathy map?
+
+Research prexisting app/web or other areas as examples access them using SWOT or benefits and disadvantages:
+
+- Express how this could be fixed and what other things can be done in order to reach requirements.
+
+WHAT TASK 1A SHOULD INCLUDE:
+---
+The proposal: Fully identify problems to be solved:
+- Effectively decompose all of the problems identified.
+
+The proposed solution would effectively:
+- meet the full needs of the client and user.
+- mitigating all of the potential risks.
+- addressing all of the relevant regulatory guidelines and legal requirements in relation to software development and the industry.
+
+The proposal provides:
+
+- comprehensive lines of reasoning that justify:
+1. the recommended solution meets the needs of the client and users.
+2. proposed solution will address relevant regulatory guidelines and legal requirements in relation to software development and the industry.
+3. Fully link risks and how they will be mitigated and how your solution will address relevant guidelines and requirements. Mention research, linking to the appendix and it will showcase a comprehensive reasoning.
+
+The proposal provides comprehensive and perceptive definitions of:
+
+- functional and non-functional requirements.
+- key performance indicators (code churn, other KPIs measuring profit margin, client retention rate and customer satisfaction)
+- User acceptance criteria (should be a table that includes user requirements and acceptance criteria)
+---
+
+THE PROPOSAL SHOULD INCLUDE THESE THINGS!!!:
+
+- Intro page (use word template)
+
+- Table of contents
+
+- Overview
+
+- Business context (create table including stakeholders, relation and desired outcome) it should include the customer, client and developers normally, just add additional rows if there is more stakeholders. A stakeholder is a party that has an interest in a company and can either affect or be affected by business.
+
+- C4 model or any other designs such as flowcharts and pseudocode (will be used in the design document most likely) C4 model includes 4 levels: Context, Container, Component and class, they should include explainations.
+
+- Contraints internal/external (include a table with the constraint, impact of constraint and management of constraint basically how it will be dealt with.
+
+The internal contraints included being: cost, scope, time, quality and resources for internal contraints 
+
+External constraints included being: legislative, security, localisation and risks
+
+- User environment and experience
+
+- Deployment
+
+- Functional and non-functional requirements (include a table with the ID, requirement, mandatory and priority. The requirements are depdendent on the scenario. 
+
+Include a description for each of the requirements, will show a better reasoning.
+
+- KPIs and user acceptance criteria (describe the KPIs and their uses relevant to the project first before adding the acceptance criteria)
+
+Include a table for user acceptance criteria adding the user requirement and acceptance criteria.
+
+- Justification (justify all aspects metioned upon as well as the appendix if applicable)
+
+
+
+
+
