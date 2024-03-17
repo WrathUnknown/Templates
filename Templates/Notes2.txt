@@ -31,9 +31,10 @@ Explain each level of the model for non-technical users
 include principles and types as an explaination
 
 then include the ones required
+---
 
 Designs:
-
+---
 Drivers relationship map - Explain the goals of the digital solution (around 4-5 paragraphs)
 Gantt chart - include the tasks and dates as well as a description.
 Target code churn KPI by date - explain what the design is and is measured.
@@ -45,3 +46,45 @@ data dictionary
 Visual/interface design
 Algorithm designs (data flow diagram, flowchart)
 The test strategy
+
+Overview - what to include in Task 1 B:
+
+Proposed design interface - include layout and white space, visual hierarchies and common conventions.
+
+use site navigation charts and wireframes of additional pages to show a full understanding.
+---
+
+Effective decomposition of identified problems that comprehensively cover: inputs, processes and outputs.
+
+Include handling user access (setting up account, logging-in, changing password)
+- Collection and processing of data, user data such (search???)
+- Automatic data collection vs manual user input
+- Communication/data exchange between different platforms or between front-end and back-end systems
+- Key calculations.
+- Data filtering and visualization.
+---
+
+Algorithms to produce consistently correct outcomes as a result of: precise logic, efficient structure and sequence and use of accepted conventions.
+
+- Think about flowcharts, pseudocode to show different outcomes within the system.
+---
+
+Data requirements for the proposed solution such as: variables, data structures and data types.
+- Consistent naming and conventions used throughout.
+- Effective error handling procedures are identified for the inputs/processed that require them.
+
+Add data dictionaries!!! Will highlight the data stored: the type, length and any validation rules required.
+---
+
+Test strategy to demonstrate an understanding of: how components interrelate.
+- The order in which components should be tested.
+- The types of tests that are required.
+
+The template test plan needs to be implemented!!!
+---
+
+Communication of the design as a result of: the use of appropriate techniques, methods and formats.
+- The use of technical language that is appropriate for the intended audience.
+
+Add descriptions for designs throughout task 1B !!!
+
