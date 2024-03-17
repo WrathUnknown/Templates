@@ -31,3 +31,17 @@ Explain each level of the model for non-technical users
 include principles and types as an explaination
 
 then include the ones required
+
+Designs:
+
+Drivers relationship map - Explain the goals of the digital solution (around 4-5 paragraphs)
+Gantt chart - include the tasks and dates as well as a description.
+Target code churn KPI by date - explain what the design is and is measured.
+Cumulative Flow KPI - include description
+Defect Density KPI - include description
+sprint burndown - include description
+Proposed timeline and milestones - explain after designs
+data dictionary
+Visual/interface design
+Algorithm designs (data flow diagram, flowchart)
+The test strategy
