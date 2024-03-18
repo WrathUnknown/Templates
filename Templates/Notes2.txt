@@ -33,10 +33,19 @@ include principles and types as an explaination
 then include the ones required
 ---
 
-Designs:
+Designs/work to be included!!!:
 ---
 Drivers relationship map - Explain the goals of the digital solution (around 4-5 paragraphs)
 Gantt chart - include the tasks and dates as well as a description.
+C4 model (possibly swap this in Task 1A), add descriptions for each level.
+Proposed design interface - add descriptions for each design window, must include layout, white space and other common conventions.
+Pseudocode, flowcharts etc.
+Common conventions (to follow).
+Database table (links to interval search/binary tree algorithm).
+Data requirements (variable table).
+Data structure (data types).
+Components to be tested - order.
+Type of tests required - principles, types, required.
 Target code churn KPI by date - explain what the design is and is measured.
 Cumulative Flow KPI - include description
 Defect Density KPI - include description
